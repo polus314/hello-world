@@ -1,6 +1,0 @@
-// This is where I write all my code
-// and then upload the changes to Github
-
-// Pretty slick, huh?
-
-// Test1 text
